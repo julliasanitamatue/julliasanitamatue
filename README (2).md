@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou a jullia👋
 
-![jullia GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=tokyonight)
+![jullia GitHub stats](https://github-readme-stats.vercel.app/api?username=julliasanitamatue&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julliasanitamatue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
